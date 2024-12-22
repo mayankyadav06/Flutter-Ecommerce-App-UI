@@ -1,7 +1,5 @@
-
-
 ---
-# eCommerce App UI
+# Ecommerce App UI
 
 ## Overview
 
@@ -55,6 +53,10 @@ This eCommerce App UI is built using Flutter, featuring a modern user interface 
 ![Cart Screen](https://github.com/user-attachments/assets/7b4df4fd-5009-4167-82e0-3565beb63985)
 
 ![App Drawer](https://github.com/user-attachments/assets/7aad2c08-3ed2-4e2a-acf8-2257a93ed533)
+
+## Video
+
+https://drive.google.com/file/d/1EoGmowzpwoULlRvthIp-NqdaRkmfwUVm/view?usp=drive_link
 
 
 ## Contributing
